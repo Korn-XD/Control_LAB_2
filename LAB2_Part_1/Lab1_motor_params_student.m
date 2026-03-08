@@ -69,7 +69,7 @@ Bm = 7.21e-5;
 J = 1.27e-5;
 Ke = 4.52e-2;
 Km = 9.99e-1 * 4.52e-2;
-dt = 0.001;
+dt = 0.01;
 % 2. Common Terms
 dt2 = dt^2;
 LmJm = Lm * J;
